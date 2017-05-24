@@ -1,0 +1,25 @@
+RallyApi 3.8.17
+	
+	
+	
+	
+	
+	Updates:-
+		Rally report folder is generated on end of the execution.
+		first store the data's  in files on inside the project folder.
+		Then  this folder is generated on output folder.  
+	  
+	    sprint and release number is enter the output excel sheet
+	    All user stories and defects are stored on sheet2 and sheet3   
+	    cell formatting is completed 
+	    
+	    
+ 	Need to improve:-
+        1)improve TestCase Data's using "workproduct"
+        2)Pie chart on inside the Excel sheet.
+        
+        3)Batch Run on Daily
+        4)Sent a mail through automation
+        5)sheet formatting
+        
+          	        
